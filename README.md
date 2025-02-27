@@ -24,6 +24,11 @@ As operações CRUD implementadas incluem:
 
 Além disso, o projeto permite visualizar os dados de forma organizada utilizando a biblioteca **Pandas**.
 
+## 🛠️ Ambiente de Desenvolvimento
+
+Este projeto foi desenvolvido utilizando o **Jupyter Notebook** e **VS Code** como editor de código. Certifique-se de ter o Jupyter Notebook instalado para executar o código interativamente, conforme as instruções no **Tutorial**.
+
+
 ## ▶️ Como Executar
 
 Para rodar o projeto, siga os passos abaixo:
